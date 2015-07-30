@@ -1,0 +1,46 @@
+DLink DIR-865L - Reversing Notes
+============================================
+
+
+Device Info:
+------------
+
+Consumer Name:		Wireless AC1750 Dual Band Gigabit Cloud Router        
+ 
+Product Page:          	http://us.dlink.com/products/connect/wireless-ac1750-dual-band-gigabit-cloud-router/
+
+Support Page(s):	http://support.dlink.com/ProductInfo.aspx?m=DIR-865L
+
+
+User Manual:           	ftp://ftp2.dlink.com/PRODUCTS/DIR-865L/REVA/DIR-865L_MANUAL_1.00_EN.PDF
+			ftp://ftp2.dlink.com/PRODUCTS/DIR-865L/REVA/DIR-865L_QIG_1.00_EN.PDF			
+			http://us.dlink.com/wp-content/uploads/2014/03/DIR-865L_DATASHEET_1.00_EN.pdf
+
+Model:                	DIR-865L 
+
+Firmware Download:    	ftp://ftp2.dlink.com/PRODUCTS/DIR-865L/REVA/DIR-865L_REVA_FIRMWARE_1.07.B01.ZIP
+
+Checksum:		MD5 (DIR865LA1_FW107b01.bin) = 5555f547774542396fdc725187588d6b
+			641db27e2d4fb46a9afe07f97f0c2d2ea978cc99  DIR865LA1_FW107b01.bin
+
+
+
+---
+
+
+Github Page:            <insert_repo>
+
+
+---
+
+Firmware Binaries of Interest:
+------------------------------
+
+
+
+
+
+Reversing Notes:
+----------------
+
+

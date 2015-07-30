@@ -1,0 +1,41 @@
+<device> <model> - Reversing Notes
+============================================
+
+
+Device Info:
+------------
+
+Consumer Name:		 
+
+Product Page:          	
+
+Support Page(s):	
+
+User Manual:           	
+
+Model:                 
+
+Firmware Download:    
+
+Checksum:	
+
+
+---
+
+
+Github Page:            <insert_repo>
+
+
+---
+
+Firmware Binaries of Interest:
+------------------------------
+
+
+
+
+
+Reversing Notes:
+----------------
+
+

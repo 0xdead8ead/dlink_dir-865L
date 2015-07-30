@@ -1,0 +1,13 @@
+
+Scan Time:     2015-04-05 02:18:13
+Signatures:    193
+Target File:   /mnt/hgfs/Research/routers/dlink_dir-865L/DIR-865L_REVA_FIRMWARE_1.07.B01/DIR865LA1_FW107b01.bin
+MD5 Checksum:  5555f547774542396fdc725187588d6b
+
+DECIMAL   	HEX       	DESCRIPTION
+-------------------------------------------------------------------------------------------------------
+0         	0x0       	DLOB firmware header, boot partition: "dev=/dev/mtdblock/1"
+112       	0x70      	LZMA compressed data, properties: 0x5D, dictionary size: 33554432 bytes, uncompressed size: 4604038 bytes
+1441904   	0x160070  	PackImg section delimiter tag, little endian size: 15762944 bytes; big endian size: 8843264 bytes
+1441936   	0x160090  	Squashfs filesystem, little endian, non-standard signature,  version 3.0, size: 8843110 bytes,  2416 inodes, blocksize: 65536 bytes, created: Thu Oct  2 07:12:27 2014 
+
